@@ -1,0 +1,231 @@
+{
+  "navigation": {
+    "home": "Home",
+    "projects": "Projects",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "header_top": {
+    "address": "KSA, Al-Qassim - Unaizah - Al-Fakhriah District",
+    "phone": "+966 0555134448",
+    "email": "info@marassi.com",
+    "slogan": "Professional Logistics Services Across KSA"
+  },
+  "languages": {
+    "english": "English",
+    "arabic": "Arabic"
+  },
+  "footer": {
+    "tagline": "We ensure safe transportation & quality delivery",
+    "contact_us_at": "Contact us at",
+    "marassi_email": "@MARASSI.com",
+    "subscribe_newsletter": "Subscribe Newsletter",
+    "newsletter_description": "We understand that every challenge is an opportunity",
+    "signup_text": "Sign Up",
+    "privacy_acceptance": "By subscribing, you're accept",
+    "privacy_policy": "Privacy Policy",
+    "terms_of_service": "Terms of Service",
+    "company": "Company",
+    "support": "Support",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "copyright_text": "Logistic Service. All rights reserved.",
+    "services_section": "Services",
+    "location_label": "Location",
+    "contact_label": "Contact",
+    "social_label": "Social",
+    "address_full": "55 Main street, 2nd block Malborne, Australia",
+    "phone_primary": "+1 (368) 567 89 54",
+    "phone_secondary": "+236 (456) 896 22",
+    "email_primary": "wiatechinfo@gmail.com",
+    "website": "www.wiatech.com",
+    "footer_services": {
+      "request_freight": "Request A Freight",
+      "our_services": "Our Services",
+      "what_we_do": "What We Do",
+      "abandonment_cart": "Abandonment Cart",
+      "shipments": "Shipments",
+      "pricing_flexibility": "Pricing Flexibility"
+    }
+  },
+  "sidebar": {
+    "about_us": "About Us",
+    "about_us_description": "Temperate ocean-bass sea chub unicorn fish treefish eulachon tidewater goby. Flier, bighe carp Devario shortnose sucker platy smalleye",
+    "contact_us": "Contact Us",
+    "phone_number": "+880 (123) 456 88",
+    "email_address": "support@gmail.com",
+    "location_address": "55 Main Street, 2nd block Malborne, Australia"
+  },
+  "breadcrumb": {
+    "contact": "Contact",
+    "contact_us": "Contact Us",
+    "projects": "Projects",
+    "legal": "Legal",
+    "privacy_policy": "Privacy Policy",
+    "terms_of_service": "Terms of Service"
+  },
+  "contact_page": {
+    "get_in_touch": "Get In Touch",
+    "contact_us": "Contact Us",
+    "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque inventore",
+    "location": "Location",
+    "phone": "Phone",
+    "email": "Email",
+    "social": "Social",
+    "fill_form": "Fill Up The Form",
+    "form_description": "Your email address will not be published. Required fields are marked *"
+  },
+  "form_messages": {
+    "name_placeholder": "Your Name*",
+    "email_placeholder": "Email Address*",
+    "message_placeholder": "Enter Your Message here",
+    "send_button": "Get In Touch",
+    "required_field": "This field is required",
+    "invalid_email": "Please enter a valid email address",
+    "invalid_phone": "Please enter a valid phone number",
+    "name_min_length": "Name must be at least 2 characters",
+    "message_min_length": "Message must be at least 10 characters",
+    "success": "Thank you! Your message has been sent successfully. We'll get back to you soon.",
+    "newsletter_success": "Successfully subscribed to newsletter!"
+  },
+  "cookie_consent": {
+    "title": "We use cookies",
+    "description": "We use cookies to enhance your browsing experience, serve personalized content, and analyze our traffic. By clicking \"Accept All\", you consent to our use of cookies.",
+    "accept_all": "Accept All",
+    "necessary_only": "Necessary Only",
+    "settings": "Settings",
+    "settings_title": "Cookie Settings",
+    "necessary_cookies_heading": "Necessary Cookies",
+    "necessary_cookies_description": "These cookies are essential for the website to function properly.",
+    "always_active": "Always Active",
+    "analytics_cookies_heading": "Analytics Cookies",
+    "analytics_cookies_description": "These cookies help us understand how visitors interact with our website.",
+    "optional": "Optional",
+    "save_settings": "Save Settings",
+    "close": "Close"
+  },
+  "error_pages": {
+    "404": {
+      "title": "Page Not Found",
+      "description": "The page you're looking for doesn't exist or has been moved. Let's get you back on track.",
+      "go_home": "Go Home",
+      "contact_us": "Contact Us",
+      "quick_links": "Quick Links",
+      "our_services": "Our Services"
+    },
+    "500": {
+      "title": "Server Error",
+      "description": "We're experiencing technical difficulties. Our team has been notified and is working to resolve the issue.",
+      "go_home": "Go Home",
+      "try_again": "Try Again",
+      "need_assistance": "Need Immediate Assistance?",
+      "contact_support": "Contact our support team directly:"
+    }
+  },
+  "privacy_policy": {
+    "title": "Privacy Policy",
+    "last_updated": "Last updated: January 2025",
+    "section_1": {
+      "title": "1. Information We Collect",
+      "description": "We collect information you provide directly to us, such as when you:",
+      "items": [
+        "Fill out our contact forms",
+        "Subscribe to our newsletter",
+        "Request freight services",
+        "Communicate with us via email or phone"
+      ]
+    },
+    "section_2": {
+      "title": "2. How We Use Your Information",
+      "description": "We use the information we collect to:",
+      "items": [
+        "Provide and improve our logistics services",
+        "Respond to your inquiries and requests",
+        "Send you updates about our services",
+        "Comply with legal obligations"
+      ]
+    },
+    "section_3": {
+      "title": "3. Information Sharing",
+      "description": "We do not sell, trade, or otherwise transfer your personal information to third parties without your consent, except as described in this policy or as required by law."
+    },
+    "section_4": {
+      "title": "4. Data Security",
+      "description": "We implement appropriate security measures to protect your personal information against unauthorized access, alteration, disclosure, or destruction."
+    },
+    "section_5": {
+      "title": "5. Your Rights",
+      "description": "You have the right to:",
+      "items": [
+        "Access your personal data",
+        "Correct inaccurate data",
+        "Request deletion of your data",
+        "Object to processing of your data",
+        "Data portability"
+      ]
+    },
+    "section_6": {
+      "title": "6. Cookies",
+      "description": "We use cookies to enhance your experience on our website. You can control cookie settings through your browser preferences."
+    },
+    "section_7": {
+      "title": "7. Contact Us",
+      "description": "If you have questions about this Privacy Policy, please contact us:",
+      "email": "privacy@marassi.com",
+      "phone": "+966 0555134448",
+      "address": "KSA, Al-Qassim - Unaizah - Al-Fakhriah District"
+    }
+  },
+  "terms_of_service": {
+    "title": "Terms of Service",
+    "last_updated": "Last updated: January 2025",
+    "section_1": {
+      "title": "1. Acceptance of Terms",
+      "description": "By accessing and using MARASSI logistics services, you accept and agree to be bound by the terms and provision of this agreement."
+    },
+    "section_2": {
+      "title": "2. Service Description",
+      "description": "MARASSI provides comprehensive logistics and transportation services including:",
+      "items": [
+        "Air transportation and freight",
+        "Maritime shipping services",
+        "Ground transportation",
+        "Warehousing and storage",
+        "Supply chain management"
+      ]
+    },
+    "section_3": {
+      "title": "3. User Responsibilities",
+      "description": "Users agree to:",
+      "items": [
+        "Provide accurate and complete information",
+        "Comply with all applicable laws and regulations",
+        "Not use our services for illegal activities",
+        "Respect intellectual property rights"
+      ]
+    },
+    "section_4": {
+      "title": "4. Limitation of Liability",
+      "description": "MARASSI shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use of our services."
+    },
+    "section_5": {
+      "title": "5. Service Availability",
+      "description": "We strive to maintain service availability but do not guarantee uninterrupted access. Services may be temporarily unavailable due to maintenance or technical issues."
+    },
+    "section_6": {
+      "title": "6. Pricing and Payment",
+      "description": "Service pricing is subject to change. Payment terms will be clearly communicated before service commencement. All fees are non-refundable unless otherwise specified."
+    },
+    "section_7": {
+      "title": "7. Termination",
+      "description": "We reserve the right to terminate or suspend access to our services immediately, without prior notice, for conduct that violates these Terms of Service."
+    },
+    "section_8": {
+      "title": "8. Contact Information",
+      "email": "legal@marassi.com",
+      "phone": "+966 0555134448",
+      "address": "KSA, Al-Qassim - Unaizah - Al-Fakhriah District"
+    }
+  }
+}
