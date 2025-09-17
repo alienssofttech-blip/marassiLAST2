@@ -2,9 +2,6 @@
                           Custom GSAP js start 
 ****************************************************************************  */
 
-var tl = gsap.timeline(); 
-gsap.registerPlugin(ScrollTrigger, SplitText);
-
 // =================================== Custom Cursor Js Start =====================================
 var body = document.body;
 var cursor = document.querySelector('.cursor');
@@ -87,6 +84,10 @@ cursorBigs.forEach(cursorBig => {
 
 // Global initialization function for header-dependent elements
 window.initCustomGsapElements = function() {
+  // Initialize GSAP after it's loaded
+  var tl = gsap.timeline(); 
+  gsap.registerPlugin(ScrollTrigger, SplitText);
+
   // **************************** Mobile Menu js Start ****************************
   var mmm = gsap.matchMedia(); 
   var mtl = gsap.timeline({paused: true}); 
