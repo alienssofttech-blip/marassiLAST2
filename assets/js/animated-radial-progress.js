@@ -1,4 +1,5 @@
-$(window).scroll(function(){
+$(document).ready(function() {
+  $(window).scroll(function(){
     $('svg.radial-progress').each(function( index, value ) { 
       // If svg.radial-progress is approximately 25% vertically into the window when scrolling from the top or the bottom
       if ( 
@@ -18,3 +19,4 @@ $(window).scroll(function(){
       }
     });
   }).trigger('scroll');
+});
